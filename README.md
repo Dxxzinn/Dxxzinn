@@ -1,16 +1,29 @@
-## Hi there 👋
+<table width="100%">
+  <tr>
+    <td width="45%" align="left" valign="middle">
+      <img
+        src="https://freepngimg.com/thumb/anime/154821-ichigo-kurosaki-png-free-photo.png"
+        width="750"
+        alt="Ichigo Kurosaki"
+      />
+    </td>
 
-<!--
-**Dxxzinn/Dxxzinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<td width="65%" align="center" valign="middle">
 
-Here are some ideas to get you started:
+<a href=
+  "https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=E66408&center=true&vCenter=true&width=435&lines=I'm+Dxx!+Learning+every+day"     alt="Typing SVG"
+                                      /></a>
+<br>
+<pre>
+💼 Nutrition and Dietetics Technical Student • Full-Stack Developer in Progress  
+💻 Learning Programming • Web Development  
+🐍 Python • JavaScript • Beginner Front-end  
+📖 Always learning and improving  
+🎮 Games • 🎨 Anime • 💻 Code • 🎵 Music  
+✝️ Faith • Discipline • Purpose  
+🌸 he/him
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </td>
+  </tr>
+</table>

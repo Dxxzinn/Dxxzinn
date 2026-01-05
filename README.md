@@ -21,7 +21,7 @@
 📖 Always learning and improving  
 🎮 Games • 🎨 Anime • 💻 Code • 🎵 Music  
 ✝️ Faith • Discipline • Purpose  
-🌸 he/him
+🐱‍👤 he/him
 </pre>
 
   </td>
